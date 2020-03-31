@@ -1,0 +1,3 @@
+Date,State,Entity,Latitude,LongitudePrecipitation Type,Temperature Low,Temperature High,Temperature Min,Temperature Max,Dew Point,Wind Speed,Wind Bearing,Wind Gust,Pressure,Cloud Cover,Humidity,Ozone,Visibility,UV Index
+2020-03-30,South Carolina,Abbeville,34.22333378,-82.46170658,rain,56.85,79.37,59.08,79.37,43.79,5.24,280,22.71,1018,0.65,0.42,302.4,10,8
+2020-03-30,Louisiana,Acadia,30.295064899999996,-92.41419698,rain,71.53,82.47,59.82,82.47,63.36,9.26,134,26.09,1016.6,0.58,0.76,277,10,8
